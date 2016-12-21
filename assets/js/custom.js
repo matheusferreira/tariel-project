@@ -172,7 +172,7 @@ jQuery(function($){
       infinite: true,
       arrows: false,
       autoplay: true,
-      speed: 500,      
+      speed: 2000,      
       cssEase: 'linear'
     });       
 
