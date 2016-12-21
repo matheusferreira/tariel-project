@@ -1300,6 +1300,146 @@ display: flex;
   display: none;
 }
 
+
+/*==================
+  GOD SECTION
+====================*/
+
+#mu-god {
+  background-image: url("assets/img/gods/EvilGods.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  display: inline;
+  float: left;
+  width: 100%;
+}
+#mu-god .mu-overlay {
+  background-color: rgba(0, 0, 0, 0.8);
+  display: inline;
+  float: left;
+  padding: 70px 0 100px;
+  width: 100%;
+}
+
+#mu-god .mu-overlay .mu-title h2 {
+  color: #fff;
+}
+
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef:hover .mu-single-chef-social h4{
+  color: #fff;
+}
+
+#mu-god .mu-god-area {
+  display: inline;
+  float: left;
+  width: 100%;
+}
+#mu-god .mu-god-area .mu-god-content {
+  display: inline;
+  float: left;
+  margin-top: 30px;
+  padding-bottom: 60px;
+  width: 100%;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav {
+  display: inline;
+  float: left;
+  text-align: center;
+  width: 100%;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li {
+  background-color: #f8f8f8;
+  display: inline-block;
+  margin: 0 5px;
+  width: 22%;
+  overflow: hidden;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li:first-child {
+  margin-left: 0;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li:last-child {
+  margin-right: 0;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef {
+  display: inline;
+  float: left;
+  width: 100%;
+  position: relative;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef:hover .mu-single-chef-social {
+  bottom: 0;
+  opacity: 1;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef .mu-single-chef-img {
+  display: inline;
+  float: left;
+  width: 100%;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef .mu-single-chef-img img {
+  width: 100%;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef .mu-single-chef-info {
+  display: inline;
+  float: left;
+  padding: 10px 10px 20px;
+  width: 100%;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef .mu-single-chef-info h4 {
+  margin-bottom: 5px;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef .mu-single-chef-info span {
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef .mu-single-chef-social {
+  background-color: #000;
+  position: absolute;
+  bottom: -100%;
+  left: 0;
+  right: 0;
+  padding: 23px 20px;
+  text-align: center;
+  opacity: 0;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef .mu-single-chef-social a {
+  display: inline-block;
+  margin: 0 5px;
+  padding: 5px;
+  text-align: center;
+  width: 35px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef .mu-single-chef-social a:hover, #mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-list li .mu-single-chef .mu-single-chef-social a:focus {
+  color: #fff;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-dots {
+  text-align: center;
+  margin-bottom: -30px;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-dots li {
+  border-radius: 50%;
+  width: 20px;
+  display: inline-block;
+  float: none;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+#mu-god .mu-god-area .mu-god-content .mu-god-nav .slick-dots li button {
+  display: none;
+}
+
 /*==================
   LATEST NEWS SECTION
 ====================*/

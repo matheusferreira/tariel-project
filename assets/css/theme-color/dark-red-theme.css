@@ -133,8 +133,15 @@ Author URI : http://www.markups.io/
   background-color: #970001;
 }
 
+#mu-cosmography {
+  background-color: #444;
+}
+#mu-cosmography .mu-subscription-area .mu-subscription-form button[type="submit"]:hover {
+  color: #970001;
+}
+
 #mu-subscription {
-  background-color: #970001;
+  
 }
 #mu-subscription .mu-subscription-area .mu-subscription-form button[type="submit"]:hover {
   color: #970001;
