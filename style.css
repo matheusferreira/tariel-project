@@ -575,11 +575,27 @@ img {
   padding-right: 15px;
   width: 100%;
 }
+
+#mu-restaurant-menu .mu-restaurant-menu-area .mu-restaurant-menu-content .mu-tab-content-area .mu-tab-content-left h3 {
+  color: #970001;
+}
+
+#mu-restaurant-menu .mu-restaurant-menu-area .mu-restaurant-menu-content .mu-tab-content-area .mu-tab-content-left h4 {
+  color: #970001;
+}
 #mu-restaurant-menu .mu-restaurant-menu-area .mu-restaurant-menu-content .mu-tab-content-area .mu-tab-content-right {
   display: inline;
   float: left;
   padding-left: 15px;
   width: 100%;
+}
+
+#mu-restaurant-menu .mu-restaurant-menu-area .mu-restaurant-menu-content .mu-tab-content-area .mu-tab-content-right h4 {
+  color: #970001;
+}
+
+#mu-restaurant-menu .mu-restaurant-menu-area .mu-restaurant-menu-content .mu-tab-content-area .mu-tab-content-right h3 {
+  color: #970001;
 }
 #mu-restaurant-menu .mu-restaurant-menu-area .mu-restaurant-menu-content .mu-tab-content-area .mu-menu-item-nav li {
   border-bottom: 1px dashed #ccc;
