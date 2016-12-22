@@ -1197,6 +1197,38 @@ display: flex;
 }
 
 /*==================
+  MASTER SECTION
+====================*/
+
+
+.mu-single-master-info {
+  background-color: #000;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  
+}
+
+.mu-single-master-info h4 {
+  margin-bottom: 5px;
+  color: #fff;
+}
+
+.mu-single-master h3 {
+  margin-bottom: 5px;
+  color: #970001;
+}
+
+.mu-single-master img {
+  width: 100%;
+}
+.mu-single-master-info span {
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  color: #fff;
+}
+
+/*==================
   CHEF SECTION
 ====================*/
 #mu-chef {
